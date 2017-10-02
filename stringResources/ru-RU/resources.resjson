@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Метки данных",
+	"Visual_Show": "Показать",
+	"Visual_LabelsFill": "Цвет",
+	"Visual_Fill": "Заливка",
+	"Visual_TextSize": "Размер текста",
+	"Visual_Force_Display": "Принудительное отображение",
+	"Visual_Nodes": "Узлы",
+	"Visual_Source": "Источник",
+	"Visual_Destination": "Место назначения",
+	"Visual_DestinationLabels": "Метки назначения",
+	"Visual_SourceLabels": "Метки источника",
+	"Visual_Weight": "Вес",
+	"Visual_DataPointsLinkLabels": "Метки связей данных",
+	"Visual_Links": "Ссылки",
+	"Visual_ScaleSettings": "Включить логарифмическую шкалу",
+	"Visual_Enable": "Включить",
+	"Visual_SankeySettings": "Параметры Sankey",
+	"Visual_NodePositions": "Положения узлов",
+	"Visual_ViewportSize": "Размеры окон просмотра"
+}

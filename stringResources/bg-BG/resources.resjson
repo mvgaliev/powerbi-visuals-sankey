@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Етикети на данни",
+	"Visual_Show": "Показване",
+	"Visual_LabelsFill": "Цвят",
+	"Visual_Fill": "Запълни",
+	"Visual_TextSize": "Размер на текста",
+	"Visual_Force_Display": "Принудително показване",
+	"Visual_Nodes": "Възли",
+	"Visual_Source": "Източник",
+	"Visual_Destination": "Местоназначение",
+	"Visual_DestinationLabels": "Етикети за местоназначение",
+	"Visual_SourceLabels": "Етикети на източник",
+	"Visual_Weight": "Тегло",
+	"Visual_DataPointsLinkLabels": "Етикети на връзката за данни",
+	"Visual_Links": "Връзки",
+	"Visual_ScaleSettings": "Разрешаване на логаритмичен мащаб",
+	"Visual_Enable": "Активиране",
+	"Visual_SankeySettings": "Настройки на Sankey",
+	"Visual_NodePositions": "Позиции на възел",
+	"Visual_ViewportSize": "Размери на прозоръчен изглед"
+}

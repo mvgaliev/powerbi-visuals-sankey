@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Oznake podataka",
+	"Visual_Show": "Pokaži",
+	"Visual_LabelsFill": "Boja",
+	"Visual_Fill": "Ispuna",
+	"Visual_TextSize": "Veličina teksta",
+	"Visual_Force_Display": "Nametni prikaz",
+	"Visual_Nodes": "Čvorovi",
+	"Visual_Source": "Izvor",
+	"Visual_Destination": "Odredište",
+	"Visual_DestinationLabels": "Oznake odredišta",
+	"Visual_SourceLabels": "Izvorišne oznake",
+	"Visual_Weight": "Ponder",
+	"Visual_DataPointsLinkLabels": "Oznake podatkovnih veza",
+	"Visual_Links": "Veze",
+	"Visual_ScaleSettings": "Omogući logaritamsku skalu",
+	"Visual_Enable": "Omogući",
+	"Visual_SankeySettings": "Postavke za Sankeyjev dijagram",
+	"Visual_NodePositions": "Položaji čvora",
+	"Visual_ViewportSize": "Veličina motrišta"
+}

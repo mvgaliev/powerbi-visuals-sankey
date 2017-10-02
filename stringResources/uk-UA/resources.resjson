@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Мітки даних",
+	"Visual_Show": "Відображення",
+	"Visual_LabelsFill": "Колір",
+	"Visual_Fill": "Заповнити",
+	"Visual_TextSize": "Розмір тексту",
+	"Visual_Force_Display": "Відображати примусово",
+	"Visual_Nodes": "Вузли",
+	"Visual_Source": "Джерело",
+	"Visual_Destination": "Призначення",
+	"Visual_DestinationLabels": "Підписи пунктів призначення",
+	"Visual_SourceLabels": "Підписи вихідних пунктів",
+	"Visual_Weight": "Значимість",
+	"Visual_DataPointsLinkLabels": "Підписи зв’язку з даними",
+	"Visual_Links": "Посилання",
+	"Visual_ScaleSettings": "Увімкнути логарифмічну шкалу",
+	"Visual_Enable": "Увімкнути",
+	"Visual_SankeySettings": "Параметри Sankey",
+	"Visual_NodePositions": "Положення вузлів",
+	"Visual_ViewportSize": "Розміри вікна перегляду"
+}
