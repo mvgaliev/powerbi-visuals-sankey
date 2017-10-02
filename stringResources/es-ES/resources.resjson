@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Etiquetas de datos",
+	"Visual_Show": "Mostrar",
+	"Visual_LabelsFill": "Color",
+	"Visual_Fill": "Rellenar",
+	"Visual_TextSize": "Tamaño del texto",
+	"Visual_Force_Display": "Forzar visualización",
+	"Visual_Nodes": "Nodos",
+	"Visual_Source": "Origen",
+	"Visual_Destination": "Destino",
+	"Visual_DestinationLabels": "Etiquetas de destino",
+	"Visual_SourceLabels": "Etiquetas de origen",
+	"Visual_Weight": "Peso",
+	"Visual_DataPointsLinkLabels": "Etiquetas de vínculos de datos",
+	"Visual_Links": "Vínculos",
+	"Visual_ScaleSettings": "Habilitar escala logarítmica",
+	"Visual_Enable": "Habilitar",
+	"Visual_SankeySettings": "Configuración de Sankey",
+	"Visual_NodePositions": "Posiciones de nodo",
+	"Visual_ViewportSize": "Tamaño de ventanilla"
+}

@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Etichette dati",
+	"Visual_Show": "Mostra",
+	"Visual_LabelsFill": "Colore",
+	"Visual_Fill": "Riempimento",
+	"Visual_TextSize": "Dimensioni testo",
+	"Visual_Force_Display": "Forza la visualizzazione",
+	"Visual_Nodes": "Nodi",
+	"Visual_Source": "Origine",
+	"Visual_Destination": "Destinazione",
+	"Visual_DestinationLabels": "Etichette di destinazione",
+	"Visual_SourceLabels": "Etichette di origine",
+	"Visual_Weight": "Peso",
+	"Visual_DataPointsLinkLabels": "Etichette dei collegamenti ai dati",
+	"Visual_Links": "Collegamenti",
+	"Visual_ScaleSettings": "Abilita la scala logaritmica",
+	"Visual_Enable": "Abilita",
+	"Visual_SankeySettings": "Impostazioni Sankey",
+	"Visual_NodePositions": "Posizioni dei nodi",
+	"Visual_ViewportSize": "Dimensioni viewport"
+}

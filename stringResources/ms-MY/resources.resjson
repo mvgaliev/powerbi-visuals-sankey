@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Label data",
+	"Visual_Show": "Tunjukkan",
+	"Visual_LabelsFill": "Warna",
+	"Visual_Fill": "Isi",
+	"Visual_TextSize": "Saiz Teks",
+	"Visual_Force_Display": "Paksa paparan",
+	"Visual_Nodes": "Nod",
+	"Visual_Source": "Sumber",
+	"Visual_Destination": "Destinasi",
+	"Visual_DestinationLabels": "Label destinasi",
+	"Visual_SourceLabels": "Label sumber",
+	"Visual_Weight": "Berat",
+	"Visual_DataPointsLinkLabels": "Label pautan data",
+	"Visual_Links": "Pautan",
+	"Visual_ScaleSettings": "Dayakan skala logaritma",
+	"Visual_Enable": "Dayakan",
+	"Visual_SankeySettings": "Tetapan Sankey",
+	"Visual_NodePositions": "Kedudukan nod",
+	"Visual_ViewportSize": "Saiz port pandangan"
+}

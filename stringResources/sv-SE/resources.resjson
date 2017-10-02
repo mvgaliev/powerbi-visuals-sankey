@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Dataetiketter",
+	"Visual_Show": "Visa",
+	"Visual_LabelsFill": "Färg",
+	"Visual_Fill": "Fyll",
+	"Visual_TextSize": "Textstorlek",
+	"Visual_Force_Display": "Framtvinga visning",
+	"Visual_Nodes": "Noder",
+	"Visual_Source": "Källa",
+	"Visual_Destination": "Destination",
+	"Visual_DestinationLabels": "Måletiketter",
+	"Visual_SourceLabels": "Källetiketter",
+	"Visual_Weight": "Vikt",
+	"Visual_DataPointsLinkLabels": "Datalänk-etiketter",
+	"Visual_Links": "Länkar",
+	"Visual_ScaleSettings": "Aktivera logaritmisk skalning",
+	"Visual_Enable": "Aktivera",
+	"Visual_SankeySettings": "Sankey-inställningar",
+	"Visual_NodePositions": "Nodpositioner",
+	"Visual_ViewportSize": "Visningsområdets storlekar"
+}

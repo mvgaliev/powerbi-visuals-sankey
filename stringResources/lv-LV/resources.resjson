@@ -1,0 +1,21 @@
+{
+	"Visual_DataPointsLabels": "Datu etiķetes",
+	"Visual_Show": "Rādīt",
+	"Visual_LabelsFill": "Krāsa",
+	"Visual_Fill": "Aizpildīt",
+	"Visual_TextSize": "Teksta lielums",
+	"Visual_Force_Display": "Uzspiest rādīšanu",
+	"Visual_Nodes": "Mezgli",
+	"Visual_Source": "Avots",
+	"Visual_Destination": "Mērķis",
+	"Visual_DestinationLabels": "Mērķa etiķetes",
+	"Visual_SourceLabels": "Avota etiķetes",
+	"Visual_Weight": "Svarīgums",
+	"Visual_DataPointsLinkLabels": "Datu saišu etiķetes",
+	"Visual_Links": "Saites",
+	"Visual_ScaleSettings": "Iespējot logaritmisko skalu",
+	"Visual_Enable": "Iespējot",
+	"Visual_SankeySettings": "Sankey diagrammas iestatījumi",
+	"Visual_NodePositions": "Mezglu pozīcijas",
+	"Visual_ViewportSize": "Skatvietas lielumi"
+}
